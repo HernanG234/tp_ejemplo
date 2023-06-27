@@ -2,4 +2,4 @@
 
 echo Soy el menu!
 
-cat scripts/generar.sh
+bash scripts/generar.sh
